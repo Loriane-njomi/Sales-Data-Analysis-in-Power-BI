@@ -30,5 +30,9 @@ The interactive dashboard provides insights into:
 ## Goal
 The objective of this project is to transform raw sales into meaningful business insights to support decision-making
 
+## <img width="454" height="229" alt="image" src="https://github.com/user-attachments/assets/edd50e3a-10f7-464e-bc20-37262a1e42de" />
+## <img width="454" height="232" alt="image" src="https://github.com/user-attachments/assets/04831f1e-2207-4e1f-ac5a-ea9189bc7718" />
+
+
 ## Author
 Loriane Njomi
